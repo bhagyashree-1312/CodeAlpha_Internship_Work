@@ -1,0 +1,501 @@
+AttackID,Date,AttackType,Country,Blocked
+B0001,2026-03-29,DDoS,Brazil,Yes
+B0002,2026-06-04,Phishing,Germany,Yes
+B0003,2026-06-07,Malware,USA,Yes
+B0004,2026-06-02,Botnet,India,Yes
+B0005,2026-04-12,Botnet,Russia,Yes
+B0006,2026-03-25,DDoS,Australia,No
+B0007,2026-01-08,SQL Injection,Japan,Yes
+B0008,2026-06-12,Ransomware,Singapore,Yes
+B0009,2026-03-11,Malware,China,Yes
+B0010,2026-04-26,Port Scan,India,Yes
+B0011,2026-05-06,Malware,UK,No
+B0012,2026-02-28,Port Scan,India,Yes
+B0013,2026-04-02,Phishing,Russia,Yes
+B0014,2026-05-22,Brute Force,USA,No
+B0015,2026-04-07,Port Scan,Brazil,Yes
+B0016,2026-04-21,Phishing,Australia,Yes
+B0017,2026-02-17,Brute Force,Singapore,Yes
+B0018,2026-06-24,Malware,Germany,Yes
+B0019,2026-05-30,DDoS,USA,Yes
+B0020,2026-06-19,SQL Injection,India,Yes
+B0021,2026-04-08,Port Scan,Germany,No
+B0022,2026-01-22,Ransomware,China,Yes
+B0023,2026-06-08,SQL Injection,Brazil,Yes
+B0024,2026-03-17,Phishing,USA,Yes
+B0025,2026-03-05,Phishing,Singapore,Yes
+B0026,2026-01-19,DDoS,USA,Yes
+B0027,2026-01-22,Ransomware,Brazil,Yes
+B0028,2026-03-10,Botnet,Russia,Yes
+B0029,2026-02-09,Phishing,Singapore,Yes
+B0030,2026-04-08,Malware,Singapore,Yes
+B0031,2026-06-12,Ransomware,Brazil,Yes
+B0032,2026-02-09,Botnet,USA,Yes
+B0033,2026-04-10,DDoS,Japan,No
+B0034,2026-03-23,DDoS,Russia,Yes
+B0035,2026-04-03,Brute Force,China,No
+B0036,2026-01-28,Phishing,UK,Yes
+B0037,2026-01-24,SQL Injection,Russia,Yes
+B0038,2026-01-02,Malware,UK,Yes
+B0039,2026-03-20,Botnet,China,Yes
+B0040,2026-04-24,Phishing,Singapore,Yes
+B0041,2026-04-03,Ransomware,India,Yes
+B0042,2026-03-11,SQL Injection,Brazil,Yes
+B0043,2026-01-27,Phishing,Singapore,Yes
+B0044,2026-02-03,Phishing,Singapore,Yes
+B0045,2026-01-23,Phishing,Brazil,Yes
+B0046,2026-02-17,Brute Force,Germany,No
+B0047,2026-04-21,Brute Force,Brazil,Yes
+B0048,2026-04-25,Port Scan,Australia,Yes
+B0049,2026-05-23,Malware,India,Yes
+B0050,2026-05-23,SQL Injection,China,Yes
+B0051,2026-05-12,Malware,USA,Yes
+B0052,2026-04-15,Malware,USA,Yes
+B0053,2026-01-27,Phishing,UK,Yes
+B0054,2026-01-07,DDoS,Japan,Yes
+B0055,2026-01-23,Malware,Russia,Yes
+B0056,2026-04-01,Botnet,Australia,Yes
+B0057,2026-05-22,Brute Force,Germany,Yes
+B0058,2026-01-24,Ransomware,Japan,Yes
+B0059,2026-06-02,Malware,India,No
+B0060,2026-06-03,SQL Injection,Russia,Yes
+B0061,2026-03-25,Botnet,Japan,Yes
+B0062,2026-04-09,Ransomware,Russia,Yes
+B0063,2026-01-04,Phishing,Japan,Yes
+B0064,2026-03-16,Phishing,Singapore,No
+B0065,2026-04-16,Malware,Australia,No
+B0066,2026-04-10,Phishing,Germany,Yes
+B0067,2026-01-22,SQL Injection,Singapore,Yes
+B0068,2026-05-24,Brute Force,Brazil,Yes
+B0069,2026-03-04,SQL Injection,USA,No
+B0070,2026-05-27,Brute Force,Russia,Yes
+B0071,2026-05-14,Malware,India,Yes
+B0072,2026-02-13,Ransomware,Japan,Yes
+B0073,2026-06-25,Port Scan,Australia,Yes
+B0074,2026-04-08,Phishing,Japan,Yes
+B0075,2026-02-13,Ransomware,Australia,Yes
+B0076,2026-02-05,Port Scan,Australia,Yes
+B0077,2026-03-10,DDoS,China,Yes
+B0078,2026-03-19,Port Scan,USA,No
+B0079,2026-03-10,Ransomware,Singapore,Yes
+B0080,2026-05-07,Ransomware,China,Yes
+B0081,2026-02-07,SQL Injection,China,Yes
+B0082,2026-01-17,Port Scan,Germany,Yes
+B0083,2026-02-12,DDoS,Germany,Yes
+B0084,2026-04-22,Ransomware,China,Yes
+B0085,2026-03-12,Botnet,India,Yes
+B0086,2026-04-18,SQL Injection,Russia,Yes
+B0087,2026-03-18,Phishing,USA,Yes
+B0088,2026-05-04,Ransomware,Russia,Yes
+B0089,2026-01-20,Botnet,Germany,Yes
+B0090,2026-04-03,Phishing,China,Yes
+B0091,2026-03-06,DDoS,Australia,Yes
+B0092,2026-03-05,Brute Force,Brazil,Yes
+B0093,2026-06-10,Brute Force,UK,Yes
+B0094,2026-05-07,Malware,USA,No
+B0095,2026-06-02,SQL Injection,USA,Yes
+B0096,2026-06-07,SQL Injection,Russia,Yes
+B0097,2026-02-20,Brute Force,Japan,Yes
+B0098,2026-04-28,Malware,Russia,Yes
+B0099,2026-01-28,Botnet,Japan,Yes
+B0100,2026-02-04,Phishing,UK,Yes
+B0101,2026-03-19,DDoS,Brazil,Yes
+B0102,2026-01-02,Phishing,Japan,Yes
+B0103,2026-04-12,DDoS,Singapore,Yes
+B0104,2026-03-27,Port Scan,India,Yes
+B0105,2026-06-08,Ransomware,Australia,Yes
+B0106,2026-04-08,DDoS,Australia,Yes
+B0107,2026-03-26,DDoS,Japan,Yes
+B0108,2026-04-23,SQL Injection,Russia,Yes
+B0109,2026-03-27,Port Scan,USA,No
+B0110,2026-04-21,SQL Injection,Russia,Yes
+B0111,2026-06-16,SQL Injection,China,Yes
+B0112,2026-06-02,SQL Injection,China,Yes
+B0113,2026-02-04,Phishing,Australia,Yes
+B0114,2026-03-18,Malware,Australia,Yes
+B0115,2026-03-24,Port Scan,Australia,Yes
+B0116,2026-06-04,Phishing,USA,Yes
+B0117,2026-06-27,Port Scan,USA,Yes
+B0118,2026-02-21,Phishing,Australia,Yes
+B0119,2026-05-03,Ransomware,USA,Yes
+B0120,2026-03-22,Malware,Brazil,Yes
+B0121,2026-02-15,Brute Force,Japan,No
+B0122,2026-04-12,SQL Injection,UK,Yes
+B0123,2026-03-23,Phishing,Russia,Yes
+B0124,2026-03-16,Port Scan,Brazil,Yes
+B0125,2026-06-27,SQL Injection,Russia,Yes
+B0126,2026-06-12,Ransomware,Singapore,Yes
+B0127,2026-05-06,DDoS,Australia,Yes
+B0128,2026-05-28,Ransomware,Australia,No
+B0129,2026-03-04,Phishing,Singapore,Yes
+B0130,2026-03-25,SQL Injection,India,Yes
+B0131,2026-04-07,Phishing,China,Yes
+B0132,2026-03-13,Botnet,Brazil,Yes
+B0133,2026-04-11,DDoS,Russia,Yes
+B0134,2026-04-04,Port Scan,China,No
+B0135,2026-01-30,Malware,Australia,Yes
+B0136,2026-05-25,Phishing,Australia,Yes
+B0137,2026-02-21,DDoS,Russia,Yes
+B0138,2026-06-01,Malware,India,Yes
+B0139,2026-05-20,DDoS,Russia,No
+B0140,2026-02-16,Malware,UK,Yes
+B0141,2026-06-24,Botnet,Germany,Yes
+B0142,2026-05-21,Brute Force,India,Yes
+B0143,2026-01-07,Port Scan,Singapore,No
+B0144,2026-04-29,Malware,Brazil,Yes
+B0145,2026-02-23,Brute Force,UK,Yes
+B0146,2026-04-23,Malware,India,Yes
+B0147,2026-03-16,Port Scan,UK,Yes
+B0148,2026-06-27,Phishing,Brazil,Yes
+B0149,2026-01-18,DDoS,Brazil,Yes
+B0150,2026-04-15,Brute Force,Brazil,No
+B0151,2026-06-22,SQL Injection,Singapore,Yes
+B0152,2026-05-08,Port Scan,USA,Yes
+B0153,2026-02-05,Phishing,Germany,No
+B0154,2026-06-12,Port Scan,China,No
+B0155,2026-03-19,Phishing,Brazil,Yes
+B0156,2026-03-03,Botnet,Singapore,Yes
+B0157,2026-03-06,Botnet,UK,No
+B0158,2026-06-18,Brute Force,Brazil,No
+B0159,2026-02-09,DDoS,Russia,Yes
+B0160,2026-04-19,Botnet,Australia,Yes
+B0161,2026-04-07,Malware,USA,Yes
+B0162,2026-01-19,Brute Force,Germany,Yes
+B0163,2026-04-25,Malware,Singapore,Yes
+B0164,2026-06-03,Port Scan,Germany,Yes
+B0165,2026-05-03,Phishing,Russia,Yes
+B0166,2026-05-30,Phishing,Singapore,No
+B0167,2026-04-13,Ransomware,Japan,Yes
+B0168,2026-05-17,DDoS,UK,No
+B0169,2026-05-10,DDoS,India,Yes
+B0170,2026-06-27,DDoS,Japan,Yes
+B0171,2026-04-18,Ransomware,China,Yes
+B0172,2026-05-20,DDoS,USA,Yes
+B0173,2026-01-10,Botnet,Brazil,Yes
+B0174,2026-04-03,Brute Force,Japan,Yes
+B0175,2026-06-29,SQL Injection,Russia,No
+B0176,2026-05-18,Malware,China,Yes
+B0177,2026-06-02,Malware,Japan,No
+B0178,2026-06-13,DDoS,Australia,Yes
+B0179,2026-01-22,SQL Injection,India,Yes
+B0180,2026-01-28,Ransomware,China,Yes
+B0181,2026-03-05,Brute Force,Germany,Yes
+B0182,2026-06-18,Ransomware,Germany,Yes
+B0183,2026-06-20,SQL Injection,India,Yes
+B0184,2026-04-01,Brute Force,Germany,Yes
+B0185,2026-02-12,Port Scan,India,Yes
+B0186,2026-06-15,Phishing,Singapore,Yes
+B0187,2026-06-06,Brute Force,India,Yes
+B0188,2026-01-12,Phishing,UK,Yes
+B0189,2026-05-25,DDoS,Germany,Yes
+B0190,2026-06-15,Malware,Brazil,Yes
+B0191,2026-06-23,Ransomware,UK,Yes
+B0192,2026-06-15,DDoS,Singapore,Yes
+B0193,2026-04-13,SQL Injection,Japan,Yes
+B0194,2026-03-26,Phishing,Russia,Yes
+B0195,2026-04-21,Botnet,USA,Yes
+B0196,2026-01-28,Port Scan,India,Yes
+B0197,2026-01-03,Port Scan,Germany,Yes
+B0198,2026-01-26,Brute Force,UK,Yes
+B0199,2026-03-08,Phishing,Singapore,Yes
+B0200,2026-02-26,Botnet,Australia,Yes
+B0201,2026-05-11,DDoS,Singapore,Yes
+B0202,2026-05-13,Brute Force,China,Yes
+B0203,2026-05-23,Ransomware,Singapore,Yes
+B0204,2026-05-29,Port Scan,Australia,Yes
+B0205,2026-06-26,Port Scan,Japan,Yes
+B0206,2026-05-28,Ransomware,UK,Yes
+B0207,2026-02-26,Botnet,UK,Yes
+B0208,2026-04-25,Brute Force,China,No
+B0209,2026-04-06,Botnet,Brazil,Yes
+B0210,2026-04-11,Ransomware,USA,No
+B0211,2026-04-29,Ransomware,Brazil,Yes
+B0212,2026-06-23,Malware,India,Yes
+B0213,2026-05-31,DDoS,Russia,Yes
+B0214,2026-06-26,SQL Injection,India,Yes
+B0215,2026-05-09,DDoS,China,Yes
+B0216,2026-02-08,Ransomware,Australia,Yes
+B0217,2026-03-30,Brute Force,Germany,Yes
+B0218,2026-01-07,DDoS,Germany,No
+B0219,2026-05-04,Brute Force,Germany,Yes
+B0220,2026-01-27,DDoS,Germany,No
+B0221,2026-03-17,SQL Injection,Brazil,No
+B0222,2026-04-17,Port Scan,Russia,Yes
+B0223,2026-01-22,Phishing,Japan,Yes
+B0224,2026-01-30,Ransomware,India,Yes
+B0225,2026-02-06,Ransomware,India,Yes
+B0226,2026-03-31,SQL Injection,Singapore,Yes
+B0227,2026-03-21,Botnet,China,Yes
+B0228,2026-03-29,DDoS,China,No
+B0229,2026-04-27,Malware,Australia,Yes
+B0230,2026-02-22,Port Scan,India,No
+B0231,2026-05-14,Phishing,Germany,Yes
+B0232,2026-05-04,DDoS,Brazil,Yes
+B0233,2026-03-31,Ransomware,Australia,Yes
+B0234,2026-05-02,SQL Injection,Brazil,Yes
+B0235,2026-01-25,Brute Force,Brazil,Yes
+B0236,2026-04-23,Botnet,Russia,Yes
+B0237,2026-06-28,Phishing,Russia,No
+B0238,2026-04-26,Phishing,UK,Yes
+B0239,2026-03-23,Malware,Singapore,Yes
+B0240,2026-01-18,SQL Injection,Brazil,Yes
+B0241,2026-03-18,Phishing,Germany,Yes
+B0242,2026-01-12,DDoS,Singapore,Yes
+B0243,2026-01-30,SQL Injection,Brazil,Yes
+B0244,2026-01-06,Malware,Japan,Yes
+B0245,2026-03-29,Ransomware,Australia,Yes
+B0246,2026-06-15,Port Scan,Russia,Yes
+B0247,2026-01-28,Port Scan,Australia,Yes
+B0248,2026-06-23,Brute Force,USA,Yes
+B0249,2026-02-12,SQL Injection,India,Yes
+B0250,2026-03-04,Brute Force,Japan,Yes
+B0251,2026-05-13,Brute Force,UK,Yes
+B0252,2026-02-14,Botnet,Japan,Yes
+B0253,2026-05-22,Port Scan,Australia,Yes
+B0254,2026-02-10,Ransomware,Australia,Yes
+B0255,2026-03-26,Phishing,Brazil,Yes
+B0256,2026-05-24,Ransomware,Brazil,No
+B0257,2026-04-20,Malware,USA,Yes
+B0258,2026-04-29,Phishing,Singapore,Yes
+B0259,2026-03-01,Malware,USA,Yes
+B0260,2026-04-14,Phishing,UK,Yes
+B0261,2026-06-11,Malware,Brazil,Yes
+B0262,2026-02-17,Botnet,UK,Yes
+B0263,2026-02-17,Botnet,Brazil,Yes
+B0264,2026-06-13,Brute Force,Brazil,Yes
+B0265,2026-06-18,SQL Injection,Brazil,Yes
+B0266,2026-04-21,Phishing,Germany,Yes
+B0267,2026-04-12,Brute Force,China,Yes
+B0268,2026-01-08,Ransomware,Japan,Yes
+B0269,2026-06-07,Botnet,Germany,Yes
+B0270,2026-02-20,Port Scan,India,Yes
+B0271,2026-04-26,Botnet,Australia,Yes
+B0272,2026-06-01,Port Scan,Russia,Yes
+B0273,2026-04-20,Phishing,UK,Yes
+B0274,2026-04-10,Phishing,China,Yes
+B0275,2026-01-02,Malware,India,Yes
+B0276,2026-06-30,Port Scan,Singapore,Yes
+B0277,2026-02-24,DDoS,Brazil,Yes
+B0278,2026-02-22,Ransomware,Brazil,No
+B0279,2026-03-13,Brute Force,Russia,Yes
+B0280,2026-06-30,Malware,Russia,No
+B0281,2026-01-17,Phishing,Russia,Yes
+B0282,2026-05-28,Ransomware,India,Yes
+B0283,2026-01-27,Brute Force,Australia,Yes
+B0284,2026-05-18,SQL Injection,Australia,No
+B0285,2026-02-17,DDoS,Germany,Yes
+B0286,2026-04-04,Port Scan,UK,Yes
+B0287,2026-03-25,Port Scan,Germany,No
+B0288,2026-02-20,Malware,Japan,Yes
+B0289,2026-04-28,DDoS,Singapore,Yes
+B0290,2026-01-30,SQL Injection,UK,No
+B0291,2026-03-09,Botnet,Japan,No
+B0292,2026-06-21,Ransomware,Brazil,Yes
+B0293,2026-05-06,Phishing,China,Yes
+B0294,2026-05-16,Botnet,Japan,Yes
+B0295,2026-06-13,Phishing,China,No
+B0296,2026-03-22,Malware,Brazil,Yes
+B0297,2026-06-02,Phishing,USA,Yes
+B0298,2026-04-10,DDoS,Singapore,Yes
+B0299,2026-06-06,DDoS,China,Yes
+B0300,2026-04-11,Ransomware,Brazil,Yes
+B0301,2026-05-31,Malware,Japan,No
+B0302,2026-01-30,Ransomware,China,Yes
+B0303,2026-03-31,SQL Injection,UK,Yes
+B0304,2026-04-01,Brute Force,USA,No
+B0305,2026-04-28,Phishing,Germany,Yes
+B0306,2026-06-08,Port Scan,UK,No
+B0307,2026-02-14,Phishing,Germany,Yes
+B0308,2026-06-22,DDoS,Brazil,Yes
+B0309,2026-06-30,Phishing,Russia,Yes
+B0310,2026-03-18,Ransomware,UK,Yes
+B0311,2026-06-07,Botnet,UK,Yes
+B0312,2026-06-01,Malware,Brazil,No
+B0313,2026-01-22,Phishing,Australia,Yes
+B0314,2026-06-22,Brute Force,Brazil,Yes
+B0315,2026-02-04,Phishing,Singapore,Yes
+B0316,2026-03-22,DDoS,USA,Yes
+B0317,2026-01-31,Botnet,Singapore,No
+B0318,2026-03-03,DDoS,India,Yes
+B0319,2026-03-20,Malware,Australia,Yes
+B0320,2026-01-30,SQL Injection,Australia,No
+B0321,2026-02-16,SQL Injection,Australia,Yes
+B0322,2026-04-06,Botnet,USA,Yes
+B0323,2026-06-27,DDoS,Singapore,Yes
+B0324,2026-02-06,SQL Injection,Germany,Yes
+B0325,2026-05-11,SQL Injection,Japan,Yes
+B0326,2026-04-10,Malware,USA,Yes
+B0327,2026-04-18,Brute Force,Russia,Yes
+B0328,2026-06-02,Ransomware,Japan,Yes
+B0329,2026-02-05,Malware,Brazil,Yes
+B0330,2026-05-28,Port Scan,Russia,Yes
+B0331,2026-04-09,Port Scan,India,Yes
+B0332,2026-04-19,Botnet,China,Yes
+B0333,2026-02-17,Malware,China,Yes
+B0334,2026-05-05,DDoS,Germany,Yes
+B0335,2026-06-12,Ransomware,UK,Yes
+B0336,2026-05-18,Port Scan,Russia,Yes
+B0337,2026-06-27,Botnet,Australia,Yes
+B0338,2026-06-15,SQL Injection,Singapore,Yes
+B0339,2026-02-14,Botnet,China,Yes
+B0340,2026-05-23,DDoS,UK,Yes
+B0341,2026-02-12,Phishing,China,Yes
+B0342,2026-05-06,Port Scan,USA,Yes
+B0343,2026-03-15,SQL Injection,Singapore,Yes
+B0344,2026-02-05,Malware,UK,No
+B0345,2026-02-17,SQL Injection,China,Yes
+B0346,2026-03-22,Ransomware,UK,Yes
+B0347,2026-04-26,Ransomware,India,Yes
+B0348,2026-06-08,DDoS,India,Yes
+B0349,2026-01-14,SQL Injection,Singapore,Yes
+B0350,2026-04-02,Brute Force,Brazil,Yes
+B0351,2026-01-03,Botnet,Germany,Yes
+B0352,2026-05-05,Botnet,China,Yes
+B0353,2026-02-04,Brute Force,Australia,Yes
+B0354,2026-02-19,Brute Force,China,Yes
+B0355,2026-04-09,SQL Injection,Singapore,Yes
+B0356,2026-05-24,Port Scan,USA,Yes
+B0357,2026-05-10,Malware,China,Yes
+B0358,2026-06-17,DDoS,Australia,Yes
+B0359,2026-05-07,Brute Force,Russia,No
+B0360,2026-04-15,Ransomware,Russia,Yes
+B0361,2026-06-25,DDoS,Russia,Yes
+B0362,2026-05-06,Port Scan,Russia,No
+B0363,2026-04-17,DDoS,Singapore,Yes
+B0364,2026-04-24,Botnet,Russia,Yes
+B0365,2026-05-06,Brute Force,India,Yes
+B0366,2026-02-12,Ransomware,India,No
+B0367,2026-01-22,Malware,Japan,Yes
+B0368,2026-05-25,Phishing,Germany,Yes
+B0369,2026-01-08,Ransomware,UK,Yes
+B0370,2026-02-26,Ransomware,India,Yes
+B0371,2026-03-16,Port Scan,UK,Yes
+B0372,2026-01-09,DDoS,Japan,Yes
+B0373,2026-03-12,Ransomware,Germany,No
+B0374,2026-02-27,SQL Injection,India,Yes
+B0375,2026-05-18,Brute Force,India,Yes
+B0376,2026-03-15,Malware,Germany,No
+B0377,2026-02-13,Malware,Germany,Yes
+B0378,2026-04-28,Ransomware,UK,Yes
+B0379,2026-05-25,Brute Force,Brazil,Yes
+B0380,2026-05-07,Brute Force,China,Yes
+B0381,2026-05-21,DDoS,USA,Yes
+B0382,2026-05-11,Brute Force,Russia,Yes
+B0383,2026-01-29,Malware,Japan,Yes
+B0384,2026-05-27,Ransomware,Australia,Yes
+B0385,2026-01-30,Botnet,Brazil,Yes
+B0386,2026-03-10,Port Scan,China,Yes
+B0387,2026-05-20,Malware,USA,No
+B0388,2026-04-04,Botnet,India,No
+B0389,2026-05-19,DDoS,Brazil,No
+B0390,2026-01-11,Phishing,Brazil,No
+B0391,2026-04-23,DDoS,Singapore,Yes
+B0392,2026-05-20,Ransomware,Japan,Yes
+B0393,2026-02-25,Ransomware,Australia,Yes
+B0394,2026-04-19,DDoS,Japan,Yes
+B0395,2026-01-27,Botnet,UK,Yes
+B0396,2026-06-17,DDoS,Russia,Yes
+B0397,2026-03-05,Brute Force,China,Yes
+B0398,2026-03-18,Ransomware,UK,Yes
+B0399,2026-01-09,Malware,Singapore,Yes
+B0400,2026-04-26,Brute Force,UK,Yes
+B0401,2026-03-09,Malware,Germany,Yes
+B0402,2026-03-31,Brute Force,China,Yes
+B0403,2026-01-23,DDoS,Russia,No
+B0404,2026-04-23,DDoS,India,Yes
+B0405,2026-01-31,Malware,Germany,Yes
+B0406,2026-03-02,Malware,Germany,Yes
+B0407,2026-02-23,Phishing,China,Yes
+B0408,2026-05-31,Brute Force,Germany,Yes
+B0409,2026-06-26,Phishing,India,Yes
+B0410,2026-03-31,Brute Force,Australia,Yes
+B0411,2026-06-06,SQL Injection,Japan,Yes
+B0412,2026-06-11,Phishing,China,Yes
+B0413,2026-04-20,Brute Force,USA,Yes
+B0414,2026-02-12,Port Scan,UK,Yes
+B0415,2026-06-07,Brute Force,India,Yes
+B0416,2026-02-05,Malware,Russia,Yes
+B0417,2026-02-22,Malware,Brazil,Yes
+B0418,2026-02-22,SQL Injection,Japan,Yes
+B0419,2026-01-16,Botnet,Australia,Yes
+B0420,2026-05-26,Brute Force,India,Yes
+B0421,2026-03-31,Malware,Australia,No
+B0422,2026-05-17,Brute Force,India,Yes
+B0423,2026-03-13,Ransomware,USA,Yes
+B0424,2026-06-02,Malware,India,Yes
+B0425,2026-05-18,SQL Injection,India,Yes
+B0426,2026-02-13,Port Scan,USA,Yes
+B0427,2026-03-24,Port Scan,Russia,Yes
+B0428,2026-06-30,Malware,Singapore,Yes
+B0429,2026-03-16,Malware,Russia,No
+B0430,2026-03-16,DDoS,USA,Yes
+B0431,2026-05-27,SQL Injection,Japan,Yes
+B0432,2026-03-10,DDoS,Brazil,Yes
+B0433,2026-05-12,Malware,Singapore,No
+B0434,2026-06-23,Brute Force,China,Yes
+B0435,2026-01-25,Ransomware,Germany,Yes
+B0436,2026-02-04,Phishing,India,Yes
+B0437,2026-04-16,Botnet,Brazil,Yes
+B0438,2026-01-16,Malware,Russia,Yes
+B0439,2026-03-12,Brute Force,USA,Yes
+B0440,2026-06-17,Phishing,Japan,Yes
+B0441,2026-02-02,Ransomware,Brazil,Yes
+B0442,2026-06-29,Brute Force,Australia,No
+B0443,2026-02-03,Brute Force,Australia,Yes
+B0444,2026-03-05,Malware,China,Yes
+B0445,2026-02-07,Phishing,Russia,No
+B0446,2026-03-24,Brute Force,USA,Yes
+B0447,2026-03-05,Botnet,Japan,Yes
+B0448,2026-06-23,DDoS,Australia,Yes
+B0449,2026-04-11,Port Scan,USA,Yes
+B0450,2026-05-06,Ransomware,Brazil,Yes
+B0451,2026-02-06,Ransomware,USA,Yes
+B0452,2026-05-28,Phishing,USA,Yes
+B0453,2026-06-11,Brute Force,Singapore,Yes
+B0454,2026-03-10,Port Scan,Germany,Yes
+B0455,2026-06-10,Phishing,Australia,Yes
+B0456,2026-04-17,DDoS,Germany,Yes
+B0457,2026-04-07,DDoS,Brazil,Yes
+B0458,2026-04-26,SQL Injection,Japan,Yes
+B0459,2026-01-20,Botnet,Germany,Yes
+B0460,2026-06-12,SQL Injection,UK,Yes
+B0461,2026-01-24,Malware,Russia,Yes
+B0462,2026-04-14,SQL Injection,Brazil,Yes
+B0463,2026-05-12,Botnet,China,Yes
+B0464,2026-03-13,SQL Injection,India,Yes
+B0465,2026-06-27,Brute Force,Japan,No
+B0466,2026-04-05,SQL Injection,Singapore,Yes
+B0467,2026-04-27,Phishing,Germany,No
+B0468,2026-05-05,Botnet,Singapore,Yes
+B0469,2026-03-25,Ransomware,UK,Yes
+B0470,2026-05-29,Malware,Germany,Yes
+B0471,2026-01-01,Botnet,India,Yes
+B0472,2026-01-24,Phishing,India,Yes
+B0473,2026-04-28,DDoS,USA,Yes
+B0474,2026-06-12,Port Scan,USA,Yes
+B0475,2026-06-20,DDoS,Australia,Yes
+B0476,2026-06-28,Brute Force,Singapore,Yes
+B0477,2026-04-02,Port Scan,China,No
+B0478,2026-01-17,Phishing,USA,Yes
+B0479,2026-05-17,Phishing,Japan,Yes
+B0480,2026-04-12,Brute Force,USA,Yes
+B0481,2026-02-25,Malware,USA,Yes
+B0482,2026-04-20,SQL Injection,Brazil,No
+B0483,2026-02-24,Malware,Germany,Yes
+B0484,2026-05-07,Phishing,Singapore,Yes
+B0485,2026-03-10,Phishing,Brazil,Yes
+B0486,2026-03-24,Brute Force,Brazil,Yes
+B0487,2026-03-14,Botnet,Singapore,Yes
+B0488,2026-03-28,DDoS,India,Yes
+B0489,2026-05-21,SQL Injection,USA,Yes
+B0490,2026-05-28,Malware,China,Yes
+B0491,2026-02-03,SQL Injection,India,Yes
+B0492,2026-05-25,Malware,Brazil,Yes
+B0493,2026-05-05,DDoS,UK,Yes
+B0494,2026-03-29,Phishing,UK,Yes
+B0495,2026-06-24,Brute Force,Russia,Yes
+B0496,2026-01-13,Ransomware,USA,Yes
+B0497,2026-01-12,Ransomware,USA,No
+B0498,2026-01-26,SQL Injection,India,Yes
+B0499,2026-06-10,Port Scan,India,Yes
+B0500,2026-04-28,Port Scan,China,No

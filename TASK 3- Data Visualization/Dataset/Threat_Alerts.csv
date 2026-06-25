@@ -1,0 +1,501 @@
+AlertID,Date,ThreatType,Severity,SourceIP,Status
+A0001,2026-06-13,Port Scan,High,192.168.96.142,Open
+A0002,2026-01-29,DDoS,High,192.168.240.27,Investigating
+A0003,2026-01-07,Phishing,Low,192.168.183.217,Resolved
+A0004,2026-03-12,SQL Injection,Low,192.168.133.218,Open
+A0005,2026-03-04,Brute Force,Medium,192.168.32.73,Open
+A0006,2026-02-27,Brute Force,Low,192.168.22.196,Open
+A0007,2026-02-05,SQL Injection,Medium,192.168.42.70,Investigating
+A0008,2026-01-27,Phishing,Low,192.168.116.232,Investigating
+A0009,2026-06-23,SQL Injection,Medium,192.168.132.38,Open
+A0010,2026-05-20,Ransomware,Medium,192.168.213.112,Open
+A0011,2026-01-23,Port Scan,Low,192.168.24.243,Investigating
+A0012,2026-06-01,DDoS,Medium,192.168.234.57,Investigating
+A0013,2026-04-19,SQL Injection,High,192.168.210.116,Open
+A0014,2026-01-09,DDoS,Low,192.168.227.90,Investigating
+A0015,2026-01-08,Ransomware,Low,192.168.239.7,Investigating
+A0016,2026-01-24,Brute Force,High,192.168.107.14,Investigating
+A0017,2026-02-25,SQL Injection,Medium,192.168.102.129,Investigating
+A0018,2026-03-01,Phishing,High,192.168.96.61,Resolved
+A0019,2026-05-10,Brute Force,Medium,192.168.99.255,Resolved
+A0020,2026-06-04,Brute Force,Medium,192.168.21.96,Resolved
+A0021,2026-01-07,Phishing,Low,192.168.58.8,Open
+A0022,2026-05-24,Port Scan,High,192.168.82.239,Investigating
+A0023,2026-02-20,Port Scan,Medium,192.168.26.215,Resolved
+A0024,2026-06-16,SQL Injection,High,192.168.183.167,Investigating
+A0025,2026-06-29,Brute Force,Critical,192.168.86.203,Resolved
+A0026,2026-05-20,SQL Injection,Medium,192.168.38.36,Open
+A0027,2026-04-18,Port Scan,Medium,192.168.10.74,Open
+A0028,2026-02-26,Malware,Medium,192.168.235.213,Resolved
+A0029,2026-04-25,Ransomware,Low,192.168.121.179,Open
+A0030,2026-05-31,SQL Injection,Critical,192.168.213.36,Investigating
+A0031,2026-03-13,SQL Injection,Critical,192.168.195.181,Investigating
+A0032,2026-01-02,Malware,Medium,192.168.121.115,Open
+A0033,2026-02-10,Port Scan,Critical,192.168.158.2,Investigating
+A0034,2026-06-28,SQL Injection,High,192.168.232.21,Resolved
+A0035,2026-04-19,DDoS,Medium,192.168.5.66,Resolved
+A0036,2026-03-29,Port Scan,Medium,192.168.56.214,Resolved
+A0037,2026-03-13,Port Scan,Critical,192.168.39.141,Investigating
+A0038,2026-02-09,Ransomware,Critical,192.168.241.187,Resolved
+A0039,2026-02-25,SQL Injection,Low,192.168.156.136,Open
+A0040,2026-03-28,Brute Force,Medium,192.168.109.29,Resolved
+A0041,2026-01-27,Botnet,Medium,192.168.199.74,Investigating
+A0042,2026-01-24,Botnet,Medium,192.168.61.78,Investigating
+A0043,2026-04-08,Botnet,High,192.168.32.13,Resolved
+A0044,2026-01-25,Ransomware,Low,192.168.62.108,Open
+A0045,2026-04-02,Botnet,High,192.168.164.204,Open
+A0046,2026-03-30,Malware,Medium,192.168.160.118,Open
+A0047,2026-06-04,Phishing,Low,192.168.17.29,Investigating
+A0048,2026-03-09,Port Scan,Critical,192.168.215.232,Open
+A0049,2026-01-12,Brute Force,High,192.168.128.153,Investigating
+A0050,2026-04-28,Phishing,Critical,192.168.138.5,Resolved
+A0051,2026-05-18,Ransomware,Critical,192.168.162.132,Resolved
+A0052,2026-02-01,Port Scan,High,192.168.148.62,Investigating
+A0053,2026-04-07,Ransomware,High,192.168.184.37,Investigating
+A0054,2026-01-21,Ransomware,Critical,192.168.75.110,Resolved
+A0055,2026-05-22,Malware,High,192.168.1.158,Resolved
+A0056,2026-03-17,DDoS,Low,192.168.91.62,Investigating
+A0057,2026-06-10,DDoS,High,192.168.147.107,Resolved
+A0058,2026-06-08,Ransomware,Low,192.168.48.171,Resolved
+A0059,2026-04-03,Botnet,Low,192.168.172.22,Open
+A0060,2026-05-28,Phishing,Medium,192.168.135.250,Open
+A0061,2026-02-19,Botnet,High,192.168.93.18,Resolved
+A0062,2026-06-30,SQL Injection,High,192.168.245.135,Resolved
+A0063,2026-01-18,Ransomware,High,192.168.140.130,Open
+A0064,2026-01-12,SQL Injection,Low,192.168.202.254,Resolved
+A0065,2026-06-19,Botnet,Low,192.168.130.142,Investigating
+A0066,2026-02-28,SQL Injection,High,192.168.6.100,Resolved
+A0067,2026-03-16,Ransomware,Low,192.168.224.121,Resolved
+A0068,2026-01-21,Malware,High,192.168.12.163,Investigating
+A0069,2026-03-01,DDoS,Low,192.168.100.252,Open
+A0070,2026-01-26,Phishing,Medium,192.168.96.65,Resolved
+A0071,2026-04-08,SQL Injection,Low,192.168.192.5,Open
+A0072,2026-03-13,Ransomware,Critical,192.168.92.202,Open
+A0073,2026-04-27,Malware,Medium,192.168.18.89,Resolved
+A0074,2026-06-12,Botnet,Medium,192.168.62.188,Resolved
+A0075,2026-04-04,DDoS,Low,192.168.169.161,Open
+A0076,2026-02-11,Ransomware,High,192.168.27.198,Resolved
+A0077,2026-04-05,Phishing,Critical,192.168.149.189,Resolved
+A0078,2026-04-01,Botnet,Medium,192.168.194.86,Open
+A0079,2026-02-23,Malware,Medium,192.168.35.12,Open
+A0080,2026-06-21,Botnet,Medium,192.168.91.140,Investigating
+A0081,2026-03-10,Brute Force,Low,192.168.87.209,Resolved
+A0082,2026-06-29,Botnet,Critical,192.168.165.45,Investigating
+A0083,2026-06-24,SQL Injection,Critical,192.168.213.200,Open
+A0084,2026-06-15,Botnet,Critical,192.168.176.119,Resolved
+A0085,2026-01-19,Malware,Medium,192.168.252.179,Open
+A0086,2026-06-05,Botnet,Critical,192.168.123.162,Resolved
+A0087,2026-06-12,Botnet,High,192.168.47.208,Resolved
+A0088,2026-02-13,Port Scan,Medium,192.168.35.17,Investigating
+A0089,2026-05-17,Ransomware,Low,192.168.184.199,Open
+A0090,2026-03-04,Port Scan,High,192.168.242.118,Resolved
+A0091,2026-02-11,Botnet,Low,192.168.10.76,Investigating
+A0092,2026-04-29,Ransomware,High,192.168.52.12,Open
+A0093,2026-04-08,Port Scan,High,192.168.203.52,Investigating
+A0094,2026-03-11,Botnet,Medium,192.168.227.11,Open
+A0095,2026-06-13,Phishing,High,192.168.81.239,Resolved
+A0096,2026-06-26,Port Scan,Medium,192.168.80.132,Investigating
+A0097,2026-05-23,Ransomware,Low,192.168.102.254,Investigating
+A0098,2026-02-26,Port Scan,Medium,192.168.209.140,Resolved
+A0099,2026-06-25,Brute Force,Medium,192.168.122.65,Open
+A0100,2026-03-25,Brute Force,Low,192.168.10.193,Resolved
+A0101,2026-01-15,Phishing,Medium,192.168.166.49,Investigating
+A0102,2026-02-28,Malware,High,192.168.74.92,Resolved
+A0103,2026-01-09,Malware,Medium,192.168.221.200,Investigating
+A0104,2026-03-22,Ransomware,Medium,192.168.13.222,Resolved
+A0105,2026-04-13,SQL Injection,High,192.168.168.85,Open
+A0106,2026-03-10,Malware,Medium,192.168.70.32,Investigating
+A0107,2026-01-17,Ransomware,High,192.168.205.95,Investigating
+A0108,2026-02-24,Phishing,Medium,192.168.112.228,Open
+A0109,2026-05-26,SQL Injection,High,192.168.103.191,Resolved
+A0110,2026-03-22,SQL Injection,Critical,192.168.113.230,Open
+A0111,2026-02-24,Brute Force,Medium,192.168.245.99,Resolved
+A0112,2026-06-17,Botnet,High,192.168.87.250,Open
+A0113,2026-05-08,SQL Injection,High,192.168.48.128,Open
+A0114,2026-04-12,DDoS,High,192.168.178.128,Investigating
+A0115,2026-06-14,Ransomware,Medium,192.168.95.237,Investigating
+A0116,2026-04-28,SQL Injection,High,192.168.205.133,Resolved
+A0117,2026-02-06,SQL Injection,High,192.168.69.206,Open
+A0118,2026-03-09,DDoS,Low,192.168.22.187,Resolved
+A0119,2026-02-05,SQL Injection,Low,192.168.109.21,Open
+A0120,2026-03-05,Botnet,Low,192.168.111.155,Open
+A0121,2026-05-24,DDoS,Critical,192.168.255.211,Investigating
+A0122,2026-05-18,Brute Force,Low,192.168.47.140,Open
+A0123,2026-03-09,Port Scan,Low,192.168.76.83,Investigating
+A0124,2026-05-30,SQL Injection,Medium,192.168.27.21,Investigating
+A0125,2026-04-20,SQL Injection,Medium,192.168.84.170,Open
+A0126,2026-05-30,Ransomware,Medium,192.168.76.79,Open
+A0127,2026-04-13,Botnet,Critical,192.168.115.155,Resolved
+A0128,2026-04-03,Ransomware,High,192.168.184.110,Resolved
+A0129,2026-02-26,Port Scan,Medium,192.168.43.177,Resolved
+A0130,2026-02-05,SQL Injection,Medium,192.168.114.90,Investigating
+A0131,2026-05-11,Botnet,High,192.168.115.11,Investigating
+A0132,2026-05-07,DDoS,Critical,192.168.187.223,Investigating
+A0133,2026-01-24,SQL Injection,High,192.168.234.91,Investigating
+A0134,2026-01-13,Brute Force,High,192.168.158.112,Investigating
+A0135,2026-01-29,SQL Injection,High,192.168.71.164,Investigating
+A0136,2026-02-09,Malware,Critical,192.168.251.203,Open
+A0137,2026-06-10,Botnet,Medium,192.168.243.15,Resolved
+A0138,2026-02-10,Malware,High,192.168.20.172,Resolved
+A0139,2026-06-24,DDoS,Low,192.168.164.104,Resolved
+A0140,2026-04-19,SQL Injection,Medium,192.168.94.132,Open
+A0141,2026-06-02,DDoS,Low,192.168.206.192,Resolved
+A0142,2026-01-17,Phishing,Medium,192.168.174.41,Investigating
+A0143,2026-04-09,SQL Injection,Critical,192.168.244.8,Open
+A0144,2026-04-08,Malware,Medium,192.168.37.218,Open
+A0145,2026-06-02,Botnet,Critical,192.168.156.174,Resolved
+A0146,2026-04-30,Malware,High,192.168.201.113,Investigating
+A0147,2026-05-16,DDoS,Low,192.168.9.33,Resolved
+A0148,2026-03-06,Port Scan,Medium,192.168.18.61,Open
+A0149,2026-05-22,SQL Injection,Critical,192.168.200.166,Resolved
+A0150,2026-01-03,Brute Force,Critical,192.168.94.93,Open
+A0151,2026-06-24,Ransomware,High,192.168.99.244,Open
+A0152,2026-01-30,Botnet,Low,192.168.146.9,Open
+A0153,2026-06-24,Brute Force,Low,192.168.155.40,Investigating
+A0154,2026-05-18,Brute Force,High,192.168.174.116,Investigating
+A0155,2026-03-10,SQL Injection,Critical,192.168.243.95,Resolved
+A0156,2026-06-14,Port Scan,Low,192.168.96.114,Resolved
+A0157,2026-03-29,SQL Injection,Medium,192.168.196.20,Resolved
+A0158,2026-01-29,Port Scan,Critical,192.168.147.36,Investigating
+A0159,2026-03-17,Phishing,High,192.168.136.94,Resolved
+A0160,2026-04-22,Botnet,Low,192.168.102.81,Investigating
+A0161,2026-02-10,DDoS,High,192.168.167.72,Open
+A0162,2026-04-27,DDoS,Medium,192.168.64.246,Open
+A0163,2026-01-01,Brute Force,Medium,192.168.30.7,Investigating
+A0164,2026-03-09,Ransomware,High,192.168.189.48,Investigating
+A0165,2026-05-09,Phishing,Low,192.168.128.133,Open
+A0166,2026-02-15,DDoS,High,192.168.100.234,Investigating
+A0167,2026-05-10,DDoS,High,192.168.144.31,Open
+A0168,2026-01-28,Ransomware,Medium,192.168.68.199,Resolved
+A0169,2026-06-10,Ransomware,Medium,192.168.67.181,Open
+A0170,2026-03-18,DDoS,Critical,192.168.115.55,Open
+A0171,2026-06-13,Malware,Critical,192.168.157.74,Resolved
+A0172,2026-05-10,Ransomware,Medium,192.168.178.235,Investigating
+A0173,2026-06-05,Malware,High,192.168.126.52,Resolved
+A0174,2026-02-20,Botnet,Low,192.168.32.35,Open
+A0175,2026-02-09,Phishing,Critical,192.168.219.19,Open
+A0176,2026-04-06,Ransomware,Low,192.168.116.45,Open
+A0177,2026-02-11,Botnet,Medium,192.168.231.183,Open
+A0178,2026-05-19,Port Scan,High,192.168.114.23,Open
+A0179,2026-05-16,Brute Force,Medium,192.168.208.175,Resolved
+A0180,2026-01-01,Malware,Low,192.168.248.217,Open
+A0181,2026-06-03,Phishing,Medium,192.168.253.82,Investigating
+A0182,2026-03-24,Malware,Low,192.168.171.89,Resolved
+A0183,2026-05-06,Port Scan,Medium,192.168.182.17,Resolved
+A0184,2026-01-05,Phishing,Low,192.168.141.139,Resolved
+A0185,2026-01-29,DDoS,Low,192.168.75.229,Open
+A0186,2026-04-03,Port Scan,Medium,192.168.77.218,Open
+A0187,2026-03-20,SQL Injection,Medium,192.168.41.183,Resolved
+A0188,2026-03-03,SQL Injection,Medium,192.168.182.238,Open
+A0189,2026-01-15,Ransomware,Medium,192.168.180.164,Investigating
+A0190,2026-03-03,Phishing,Low,192.168.45.204,Investigating
+A0191,2026-05-26,Ransomware,High,192.168.93.131,Open
+A0192,2026-01-21,Phishing,High,192.168.58.32,Resolved
+A0193,2026-01-22,Port Scan,Critical,192.168.253.52,Open
+A0194,2026-05-05,Phishing,High,192.168.203.36,Open
+A0195,2026-01-18,DDoS,Medium,192.168.61.203,Open
+A0196,2026-05-17,Brute Force,High,192.168.127.7,Resolved
+A0197,2026-02-02,SQL Injection,Low,192.168.93.142,Investigating
+A0198,2026-02-02,Brute Force,Critical,192.168.147.95,Open
+A0199,2026-06-18,Phishing,High,192.168.120.206,Resolved
+A0200,2026-05-02,Brute Force,Medium,192.168.252.142,Resolved
+A0201,2026-05-21,DDoS,Low,192.168.34.157,Investigating
+A0202,2026-02-12,SQL Injection,High,192.168.227.23,Resolved
+A0203,2026-03-09,Botnet,Medium,192.168.17.80,Resolved
+A0204,2026-05-16,Phishing,Critical,192.168.102.184,Resolved
+A0205,2026-06-05,SQL Injection,Medium,192.168.185.123,Investigating
+A0206,2026-04-19,Brute Force,Low,192.168.135.106,Open
+A0207,2026-02-24,Botnet,Low,192.168.197.105,Investigating
+A0208,2026-05-19,Malware,High,192.168.211.148,Open
+A0209,2026-06-26,SQL Injection,Medium,192.168.19.33,Resolved
+A0210,2026-02-21,Malware,High,192.168.249.82,Resolved
+A0211,2026-03-21,Port Scan,Medium,192.168.165.19,Open
+A0212,2026-04-13,Botnet,Medium,192.168.116.120,Investigating
+A0213,2026-06-21,Botnet,Medium,192.168.175.133,Investigating
+A0214,2026-06-16,SQL Injection,Medium,192.168.89.33,Investigating
+A0215,2026-04-06,Port Scan,Medium,192.168.225.213,Open
+A0216,2026-04-23,Brute Force,High,192.168.200.142,Resolved
+A0217,2026-05-13,Ransomware,Low,192.168.164.151,Resolved
+A0218,2026-04-26,Phishing,High,192.168.47.197,Resolved
+A0219,2026-01-31,Port Scan,Critical,192.168.248.34,Open
+A0220,2026-03-05,Botnet,Medium,192.168.111.129,Resolved
+A0221,2026-02-27,Ransomware,Critical,192.168.234.223,Resolved
+A0222,2026-01-17,Botnet,Medium,192.168.15.213,Investigating
+A0223,2026-03-28,SQL Injection,Critical,192.168.32.133,Resolved
+A0224,2026-01-06,Brute Force,Medium,192.168.40.78,Investigating
+A0225,2026-05-31,DDoS,High,192.168.43.42,Open
+A0226,2026-05-22,Botnet,Medium,192.168.83.240,Investigating
+A0227,2026-02-28,Brute Force,High,192.168.182.58,Resolved
+A0228,2026-05-31,Malware,Medium,192.168.89.243,Resolved
+A0229,2026-02-26,Botnet,Medium,192.168.241.133,Investigating
+A0230,2026-01-02,Ransomware,Medium,192.168.230.73,Resolved
+A0231,2026-01-19,Brute Force,Critical,192.168.217.21,Investigating
+A0232,2026-06-11,Port Scan,High,192.168.65.51,Resolved
+A0233,2026-01-16,Brute Force,Medium,192.168.163.245,Investigating
+A0234,2026-02-28,Port Scan,Low,192.168.142.71,Investigating
+A0235,2026-01-18,Port Scan,Low,192.168.33.161,Open
+A0236,2026-01-09,DDoS,Medium,192.168.78.158,Investigating
+A0237,2026-03-26,Ransomware,High,192.168.137.24,Investigating
+A0238,2026-01-19,Phishing,Medium,192.168.129.165,Open
+A0239,2026-05-12,Ransomware,Low,192.168.44.152,Resolved
+A0240,2026-03-02,SQL Injection,Low,192.168.242.149,Investigating
+A0241,2026-03-13,Botnet,Critical,192.168.40.44,Open
+A0242,2026-06-21,Ransomware,Medium,192.168.169.160,Open
+A0243,2026-05-05,Botnet,High,192.168.185.231,Investigating
+A0244,2026-02-24,Botnet,Medium,192.168.155.87,Resolved
+A0245,2026-05-19,Botnet,Critical,192.168.216.237,Open
+A0246,2026-02-03,DDoS,Critical,192.168.145.11,Investigating
+A0247,2026-05-27,Phishing,Medium,192.168.212.222,Open
+A0248,2026-05-28,Port Scan,Critical,192.168.8.21,Resolved
+A0249,2026-05-02,Ransomware,Low,192.168.12.243,Investigating
+A0250,2026-03-04,SQL Injection,Medium,192.168.165.198,Investigating
+A0251,2026-05-02,Ransomware,Medium,192.168.148.68,Resolved
+A0252,2026-04-15,Port Scan,Low,192.168.167.54,Resolved
+A0253,2026-02-18,Brute Force,Medium,192.168.197.147,Open
+A0254,2026-01-25,Botnet,Low,192.168.107.159,Investigating
+A0255,2026-01-25,Brute Force,Medium,192.168.164.8,Open
+A0256,2026-06-18,SQL Injection,High,192.168.128.228,Investigating
+A0257,2026-04-21,Brute Force,Medium,192.168.161.140,Open
+A0258,2026-04-01,Brute Force,Medium,192.168.75.165,Investigating
+A0259,2026-04-19,Botnet,Low,192.168.245.78,Resolved
+A0260,2026-04-16,Port Scan,Medium,192.168.124.63,Open
+A0261,2026-04-30,Port Scan,Low,192.168.207.207,Investigating
+A0262,2026-01-14,Port Scan,Medium,192.168.176.104,Investigating
+A0263,2026-06-22,Ransomware,Medium,192.168.77.117,Open
+A0264,2026-06-17,Phishing,High,192.168.19.177,Resolved
+A0265,2026-06-15,Ransomware,High,192.168.16.41,Resolved
+A0266,2026-01-26,Brute Force,High,192.168.113.107,Open
+A0267,2026-01-16,Phishing,Medium,192.168.124.119,Open
+A0268,2026-04-14,Malware,High,192.168.53.88,Investigating
+A0269,2026-03-28,Ransomware,High,192.168.156.37,Investigating
+A0270,2026-01-28,Ransomware,High,192.168.81.221,Resolved
+A0271,2026-03-05,Botnet,Low,192.168.184.82,Resolved
+A0272,2026-02-19,Port Scan,Medium,192.168.188.253,Resolved
+A0273,2026-02-18,Port Scan,High,192.168.221.89,Open
+A0274,2026-05-18,Phishing,Critical,192.168.250.103,Open
+A0275,2026-04-25,Ransomware,Medium,192.168.34.195,Open
+A0276,2026-02-05,Port Scan,Low,192.168.95.132,Resolved
+A0277,2026-04-19,Ransomware,Low,192.168.144.28,Resolved
+A0278,2026-02-16,Brute Force,High,192.168.82.62,Resolved
+A0279,2026-03-13,Malware,Low,192.168.120.32,Resolved
+A0280,2026-04-29,Port Scan,High,192.168.69.116,Open
+A0281,2026-03-05,DDoS,Critical,192.168.64.37,Investigating
+A0282,2026-01-20,Malware,Low,192.168.25.13,Open
+A0283,2026-04-24,Port Scan,Medium,192.168.75.243,Investigating
+A0284,2026-05-21,DDoS,Medium,192.168.99.222,Investigating
+A0285,2026-01-26,DDoS,Medium,192.168.158.108,Open
+A0286,2026-01-13,Port Scan,Low,192.168.64.247,Open
+A0287,2026-06-16,Malware,Medium,192.168.222.231,Open
+A0288,2026-05-19,Botnet,Medium,192.168.41.209,Resolved
+A0289,2026-01-04,Phishing,Critical,192.168.84.240,Open
+A0290,2026-01-24,DDoS,Medium,192.168.148.185,Resolved
+A0291,2026-03-02,Port Scan,Critical,192.168.81.49,Investigating
+A0292,2026-02-12,Botnet,Low,192.168.196.41,Open
+A0293,2026-04-15,Botnet,High,192.168.128.255,Resolved
+A0294,2026-05-05,Botnet,Low,192.168.132.120,Resolved
+A0295,2026-05-04,Brute Force,Low,192.168.128.226,Resolved
+A0296,2026-02-24,Malware,Medium,192.168.79.128,Open
+A0297,2026-04-13,DDoS,Medium,192.168.6.24,Investigating
+A0298,2026-01-16,Port Scan,High,192.168.242.101,Open
+A0299,2026-02-12,Botnet,Medium,192.168.130.118,Resolved
+A0300,2026-04-08,Phishing,Low,192.168.248.62,Investigating
+A0301,2026-01-01,Phishing,Medium,192.168.56.150,Investigating
+A0302,2026-04-10,SQL Injection,Medium,192.168.91.13,Investigating
+A0303,2026-03-09,Botnet,Low,192.168.13.73,Investigating
+A0304,2026-04-27,Phishing,High,192.168.127.153,Resolved
+A0305,2026-03-15,DDoS,Medium,192.168.226.216,Resolved
+A0306,2026-04-19,Malware,Medium,192.168.168.173,Investigating
+A0307,2026-06-28,Malware,Medium,192.168.121.74,Investigating
+A0308,2026-05-23,Port Scan,Low,192.168.138.3,Investigating
+A0309,2026-06-19,Phishing,Critical,192.168.217.28,Investigating
+A0310,2026-05-05,Ransomware,Low,192.168.111.35,Resolved
+A0311,2026-02-09,Phishing,Low,192.168.226.68,Investigating
+A0312,2026-02-18,SQL Injection,Critical,192.168.187.94,Investigating
+A0313,2026-03-17,Ransomware,High,192.168.196.104,Open
+A0314,2026-02-25,SQL Injection,High,192.168.94.12,Resolved
+A0315,2026-01-15,Botnet,Medium,192.168.103.14,Investigating
+A0316,2026-05-29,Botnet,Low,192.168.146.144,Investigating
+A0317,2026-05-19,Port Scan,Medium,192.168.50.93,Open
+A0318,2026-01-16,SQL Injection,Medium,192.168.142.74,Investigating
+A0319,2026-03-22,Port Scan,Low,192.168.19.99,Investigating
+A0320,2026-01-15,DDoS,Medium,192.168.130.116,Investigating
+A0321,2026-01-13,Phishing,Low,192.168.196.141,Open
+A0322,2026-05-30,Ransomware,Medium,192.168.72.212,Resolved
+A0323,2026-05-03,Ransomware,High,192.168.254.160,Open
+A0324,2026-05-09,Port Scan,Medium,192.168.175.157,Resolved
+A0325,2026-05-16,Phishing,Medium,192.168.31.33,Open
+A0326,2026-02-10,Malware,High,192.168.250.25,Open
+A0327,2026-01-15,Ransomware,Medium,192.168.101.96,Investigating
+A0328,2026-05-11,Malware,Medium,192.168.204.253,Resolved
+A0329,2026-01-21,Phishing,Low,192.168.87.143,Resolved
+A0330,2026-02-17,Malware,Medium,192.168.241.94,Resolved
+A0331,2026-01-18,DDoS,Medium,192.168.194.37,Resolved
+A0332,2026-06-02,SQL Injection,Medium,192.168.51.155,Investigating
+A0333,2026-01-18,Botnet,High,192.168.131.103,Investigating
+A0334,2026-06-22,Botnet,Medium,192.168.129.11,Open
+A0335,2026-03-02,Port Scan,Medium,192.168.12.10,Open
+A0336,2026-04-14,DDoS,Critical,192.168.36.183,Investigating
+A0337,2026-01-31,Ransomware,Low,192.168.86.206,Open
+A0338,2026-05-26,Port Scan,Critical,192.168.122.133,Investigating
+A0339,2026-03-05,Port Scan,Medium,192.168.117.39,Resolved
+A0340,2026-05-29,Botnet,High,192.168.156.229,Open
+A0341,2026-06-02,Phishing,Medium,192.168.132.36,Investigating
+A0342,2026-01-11,Ransomware,Medium,192.168.84.239,Resolved
+A0343,2026-06-08,Port Scan,Low,192.168.157.82,Resolved
+A0344,2026-01-21,Ransomware,Medium,192.168.42.101,Resolved
+A0345,2026-04-18,SQL Injection,Medium,192.168.254.158,Investigating
+A0346,2026-06-18,Phishing,Low,192.168.190.216,Investigating
+A0347,2026-05-30,Ransomware,Critical,192.168.77.152,Investigating
+A0348,2026-05-25,Malware,High,192.168.87.130,Resolved
+A0349,2026-05-14,Port Scan,Low,192.168.213.131,Resolved
+A0350,2026-03-22,Malware,High,192.168.137.126,Resolved
+A0351,2026-03-08,Phishing,Low,192.168.182.145,Investigating
+A0352,2026-02-22,DDoS,High,192.168.77.122,Investigating
+A0353,2026-06-21,Malware,Medium,192.168.209.5,Open
+A0354,2026-03-22,Port Scan,Low,192.168.95.85,Resolved
+A0355,2026-03-03,Port Scan,High,192.168.173.29,Investigating
+A0356,2026-03-09,Botnet,Medium,192.168.251.107,Open
+A0357,2026-04-12,Phishing,Critical,192.168.150.79,Open
+A0358,2026-02-03,Botnet,High,192.168.204.231,Resolved
+A0359,2026-06-21,Port Scan,Low,192.168.186.224,Resolved
+A0360,2026-06-15,SQL Injection,Low,192.168.177.162,Investigating
+A0361,2026-03-18,Port Scan,Medium,192.168.7.153,Open
+A0362,2026-04-28,Botnet,Low,192.168.122.68,Resolved
+A0363,2026-03-22,Botnet,Low,192.168.248.168,Resolved
+A0364,2026-01-19,Phishing,High,192.168.201.249,Open
+A0365,2026-01-03,DDoS,Low,192.168.199.149,Resolved
+A0366,2026-04-28,SQL Injection,Critical,192.168.148.59,Open
+A0367,2026-06-09,Brute Force,High,192.168.185.14,Open
+A0368,2026-05-25,Port Scan,Medium,192.168.150.123,Resolved
+A0369,2026-01-26,DDoS,Medium,192.168.44.135,Open
+A0370,2026-01-19,Phishing,Medium,192.168.162.185,Open
+A0371,2026-05-18,Ransomware,High,192.168.159.199,Investigating
+A0372,2026-02-24,DDoS,Critical,192.168.216.98,Open
+A0373,2026-05-10,Port Scan,High,192.168.38.211,Resolved
+A0374,2026-03-09,DDoS,Critical,192.168.175.63,Open
+A0375,2026-02-03,Malware,Medium,192.168.9.147,Open
+A0376,2026-03-31,Botnet,Critical,192.168.243.180,Resolved
+A0377,2026-01-18,Botnet,Medium,192.168.29.49,Open
+A0378,2026-03-04,Port Scan,Medium,192.168.5.113,Open
+A0379,2026-04-05,Malware,Medium,192.168.81.108,Open
+A0380,2026-03-14,SQL Injection,High,192.168.39.106,Resolved
+A0381,2026-02-10,Botnet,High,192.168.177.53,Investigating
+A0382,2026-04-23,Phishing,Medium,192.168.106.129,Investigating
+A0383,2026-05-20,Botnet,Medium,192.168.199.157,Open
+A0384,2026-06-30,Brute Force,Low,192.168.236.121,Resolved
+A0385,2026-03-19,SQL Injection,Medium,192.168.224.218,Resolved
+A0386,2026-06-06,Brute Force,Low,192.168.189.187,Resolved
+A0387,2026-06-17,Brute Force,Medium,192.168.16.181,Resolved
+A0388,2026-05-16,Phishing,Medium,192.168.36.133,Investigating
+A0389,2026-01-03,Malware,High,192.168.54.144,Resolved
+A0390,2026-06-20,Brute Force,Critical,192.168.84.170,Investigating
+A0391,2026-05-22,SQL Injection,Low,192.168.123.135,Open
+A0392,2026-03-18,Botnet,Medium,192.168.97.81,Open
+A0393,2026-06-19,Port Scan,Medium,192.168.245.45,Resolved
+A0394,2026-01-27,SQL Injection,Medium,192.168.118.234,Resolved
+A0395,2026-02-04,DDoS,Critical,192.168.137.88,Investigating
+A0396,2026-03-09,Botnet,High,192.168.140.91,Open
+A0397,2026-01-30,Phishing,Low,192.168.174.198,Open
+A0398,2026-01-28,Brute Force,Critical,192.168.223.185,Resolved
+A0399,2026-05-22,Port Scan,Medium,192.168.175.165,Resolved
+A0400,2026-02-09,Brute Force,Low,192.168.206.178,Investigating
+A0401,2026-03-11,Phishing,High,192.168.68.157,Resolved
+A0402,2026-03-14,SQL Injection,Medium,192.168.124.50,Investigating
+A0403,2026-06-04,DDoS,Critical,192.168.246.64,Open
+A0404,2026-02-23,Botnet,Medium,192.168.72.143,Resolved
+A0405,2026-03-29,SQL Injection,High,192.168.77.58,Resolved
+A0406,2026-02-22,DDoS,High,192.168.242.250,Resolved
+A0407,2026-06-25,Ransomware,Critical,192.168.252.77,Investigating
+A0408,2026-06-12,Brute Force,Low,192.168.198.74,Open
+A0409,2026-03-09,Botnet,High,192.168.181.54,Open
+A0410,2026-05-10,Botnet,Low,192.168.177.181,Open
+A0411,2026-05-06,DDoS,High,192.168.126.82,Resolved
+A0412,2026-03-06,Ransomware,Critical,192.168.123.90,Open
+A0413,2026-01-14,Port Scan,Medium,192.168.144.240,Open
+A0414,2026-01-24,Malware,High,192.168.240.204,Open
+A0415,2026-06-12,Port Scan,Medium,192.168.185.71,Resolved
+A0416,2026-04-19,Botnet,Critical,192.168.74.32,Resolved
+A0417,2026-03-12,Botnet,Medium,192.168.147.174,Investigating
+A0418,2026-01-12,Phishing,High,192.168.140.98,Investigating
+A0419,2026-01-01,DDoS,High,192.168.230.251,Investigating
+A0420,2026-03-27,Ransomware,Low,192.168.102.210,Investigating
+A0421,2026-02-03,Malware,High,192.168.89.245,Open
+A0422,2026-06-13,Port Scan,Medium,192.168.198.206,Investigating
+A0423,2026-03-09,DDoS,Medium,192.168.38.75,Investigating
+A0424,2026-02-11,SQL Injection,Medium,192.168.11.74,Investigating
+A0425,2026-04-24,Phishing,Medium,192.168.245.183,Resolved
+A0426,2026-05-22,Ransomware,Medium,192.168.21.89,Open
+A0427,2026-06-30,Phishing,Critical,192.168.237.114,Resolved
+A0428,2026-04-20,Botnet,Critical,192.168.168.66,Open
+A0429,2026-05-24,Phishing,High,192.168.192.123,Investigating
+A0430,2026-01-03,Malware,Low,192.168.55.52,Resolved
+A0431,2026-01-29,Botnet,Low,192.168.212.138,Open
+A0432,2026-01-20,Port Scan,High,192.168.70.239,Resolved
+A0433,2026-06-26,Port Scan,Critical,192.168.144.179,Resolved
+A0434,2026-02-08,SQL Injection,Medium,192.168.70.36,Open
+A0435,2026-05-20,Botnet,High,192.168.28.158,Open
+A0436,2026-01-10,Botnet,High,192.168.190.151,Investigating
+A0437,2026-04-05,Ransomware,Low,192.168.62.63,Investigating
+A0438,2026-05-30,Botnet,High,192.168.13.172,Investigating
+A0439,2026-05-22,Malware,Low,192.168.232.136,Resolved
+A0440,2026-02-07,SQL Injection,Medium,192.168.58.164,Investigating
+A0441,2026-04-21,Ransomware,High,192.168.60.14,Open
+A0442,2026-02-02,Malware,Medium,192.168.26.106,Resolved
+A0443,2026-01-11,Phishing,Low,192.168.85.184,Open
+A0444,2026-03-20,Port Scan,High,192.168.121.26,Resolved
+A0445,2026-04-04,SQL Injection,Critical,192.168.175.198,Open
+A0446,2026-01-11,Brute Force,Critical,192.168.36.2,Open
+A0447,2026-04-02,Port Scan,Critical,192.168.247.141,Investigating
+A0448,2026-02-23,DDoS,Low,192.168.251.238,Investigating
+A0449,2026-06-24,Port Scan,High,192.168.41.105,Resolved
+A0450,2026-03-05,Port Scan,Medium,192.168.168.240,Investigating
+A0451,2026-06-20,Botnet,Low,192.168.226.225,Resolved
+A0452,2026-01-27,Malware,Medium,192.168.122.123,Open
+A0453,2026-04-01,Botnet,Critical,192.168.167.52,Resolved
+A0454,2026-05-24,Botnet,Medium,192.168.194.247,Open
+A0455,2026-04-15,Brute Force,High,192.168.74.83,Open
+A0456,2026-06-08,Brute Force,Low,192.168.74.166,Open
+A0457,2026-02-09,SQL Injection,Critical,192.168.16.233,Resolved
+A0458,2026-03-02,Botnet,Low,192.168.197.23,Resolved
+A0459,2026-02-11,Brute Force,Medium,192.168.167.147,Investigating
+A0460,2026-02-15,Ransomware,High,192.168.60.137,Investigating
+A0461,2026-04-16,Ransomware,Medium,192.168.190.186,Open
+A0462,2026-01-07,SQL Injection,Medium,192.168.218.240,Open
+A0463,2026-02-15,Ransomware,High,192.168.10.234,Resolved
+A0464,2026-03-27,SQL Injection,Medium,192.168.236.45,Investigating
+A0465,2026-04-16,DDoS,High,192.168.107.226,Resolved
+A0466,2026-06-21,Brute Force,Critical,192.168.215.46,Resolved
+A0467,2026-03-05,Botnet,High,192.168.240.236,Resolved
+A0468,2026-03-10,SQL Injection,Medium,192.168.10.215,Open
+A0469,2026-02-10,SQL Injection,Low,192.168.102.202,Open
+A0470,2026-06-29,Malware,Low,192.168.127.48,Investigating
+A0471,2026-01-28,Botnet,High,192.168.240.192,Open
+A0472,2026-04-08,DDoS,High,192.168.247.224,Open
+A0473,2026-01-10,Malware,Critical,192.168.238.75,Resolved
+A0474,2026-05-01,Brute Force,High,192.168.225.10,Open
+A0475,2026-02-26,Phishing,Low,192.168.3.77,Resolved
+A0476,2026-02-21,Botnet,Medium,192.168.146.155,Investigating
+A0477,2026-04-28,Phishing,High,192.168.28.238,Open
+A0478,2026-03-31,Botnet,Critical,192.168.252.86,Investigating
+A0479,2026-03-20,DDoS,High,192.168.73.117,Open
+A0480,2026-02-28,Malware,High,192.168.254.165,Resolved
+A0481,2026-02-27,SQL Injection,High,192.168.140.135,Open
+A0482,2026-01-07,Malware,Low,192.168.127.228,Resolved
+A0483,2026-06-18,Phishing,Low,192.168.241.35,Investigating
+A0484,2026-02-19,Botnet,Critical,192.168.218.130,Resolved
+A0485,2026-04-13,Port Scan,High,192.168.120.70,Resolved
+A0486,2026-03-26,Brute Force,Critical,192.168.50.208,Investigating
+A0487,2026-03-13,SQL Injection,Low,192.168.29.85,Investigating
+A0488,2026-01-18,Phishing,High,192.168.42.188,Resolved
+A0489,2026-03-13,Brute Force,Medium,192.168.118.166,Open
+A0490,2026-03-31,SQL Injection,Medium,192.168.66.184,Resolved
+A0491,2026-06-14,Brute Force,High,192.168.48.4,Resolved
+A0492,2026-05-11,Botnet,High,192.168.189.87,Open
+A0493,2026-04-13,DDoS,Medium,192.168.203.76,Resolved
+A0494,2026-06-23,Phishing,Medium,192.168.146.173,Resolved
+A0495,2026-05-18,Ransomware,Low,192.168.194.50,Investigating
+A0496,2026-03-26,Port Scan,Low,192.168.45.157,Open
+A0497,2026-01-08,Ransomware,High,192.168.220.164,Open
+A0498,2026-01-30,Phishing,Critical,192.168.230.104,Investigating
+A0499,2026-03-08,SQL Injection,Low,192.168.212.110,Open
+A0500,2026-02-15,Phishing,Medium,192.168.132.84,Open
